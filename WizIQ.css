@@ -1,0 +1,135 @@
+body{
+    margin: 0 auto;
+    padding: 0 auto;
+    text-align: center;
+}
+
+             /* WIZIQ HOME PAGE */
+.WIZIQ{
+    color: orange;
+    text-align: start;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+span{
+    color : blue;
+}
+
+.RD{
+    
+    padding: 12px 65px;
+    border-radius: 25px;
+    color: white;
+    background-color: #f78200;
+    align-content: center;
+    font-size: 1.2em;
+}
+
+a{
+    text-decoration: none;
+}
+
+.E1{
+    text-align: center;
+    text-decoration: none;
+}
+.my1{
+    background-color: rgb(12, 127, 203);
+    height: 700px;
+    font-weight: lighter;
+    margin-left: 20px;
+    margin-right: 20px;
+    position:relative;
+    top: -15px;
+    
+}
+
+h2{
+    font-family: "Poppins", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+  }
+h2{
+   
+    color: white;
+    border: 1px;
+    text-align: center;
+    font-size: 40px; 
+}
+img{
+    /* float: right; */
+    margin-top: 45px;
+    width: 90%;
+   position: relative;
+   left: -90px;
+}
+
+.D2{
+    margin: 50px auto;
+    position: relative;
+    bottom: -30px;
+    left: -20px;
+    font-size: 12px;
+
+}
+
+.D2 ul li{
+    padding: 5px;
+    list-style: none;
+    text-align: left;
+   
+}
+
+.D2 ul li a{
+    padding: 2px;
+    color:#fff ;
+
+}
+.D2 ul li:hover{
+    /* padding: 10px; */
+    background-color:  rgb(54, 183, 243);
+    
+}
+.class1{
+    font-size: 40px;
+
+}
+.sec{
+    display: flex;
+
+}
+
+                   /* FOR VIRTUAL CLASSROOM.HTML */
+.t4{
+background-color:rgb(54, 183, 243) ;
+}
+
+           /* FOR eLEARNING */
+           .d3{
+            background-color: aqua;
+            text-align: center;
+           }
+           
+           .s2{
+               color: orange;
+            }
+        
+           #h6{
+             text-align: right;    
+         }
+           
+           
+           
+        
+                  
+                   
+                   
+                   
+                               
+
+
+
+                   
+ 
+                
