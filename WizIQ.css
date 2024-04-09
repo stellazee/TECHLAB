@@ -2,6 +2,7 @@ body{
     margin: 0 auto;
     padding: 0 auto;
     text-align: center;
+
 }
 
              /* WIZIQ HOME PAGE */
@@ -197,6 +198,50 @@ background-color:rgb(54, 183, 243) ;
            #h6{
              text-align: right;    
          }
+
+        
+            /* NAVIGATIOM BAR */
+        
+         .navibar{
+            background: #ccc;
+            padding-right: 15px;
+            padding-left: 15px;
+            text-decoration: none;
+         }
+         .navdiv{
+            display: flex;
+            align-items: center;
+            justify-content:space-between;
+            text-decoration: none;
+           
+         }
+         .logo{
+            font-size: 35px;
+            font-weight: 600;
+            color:#ccc; 
+         }
+         .list a{
+            color: white;
+            font-size: 18px;
+            font-weight: bold;
+            margin-right: 25px;
+            text-decoration: none;
+            display: flex; 
+
+         }
+         .button a{
+            color: wheat;
+            font-weight: bold;
+            font-size: 15px;
+         }
+         .display{
+            display: flex;
+            text-decoration: none;
+            padding: 8px;
+            
+         }
+        
+
            
            
            
