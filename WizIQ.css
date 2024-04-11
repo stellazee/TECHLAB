@@ -20,8 +20,8 @@ span{
 
 .RD{
     
-    padding: 12px 65px;
-    border-radius: 25px;
+    padding: 8px 43px;
+    border-radius: 20px;
     color: white;
     background-color: #f78200;
     align-content: center;
@@ -35,6 +35,7 @@ a{
 .E1{
     text-align: center;
     text-decoration: none;
+
 }
 .headerdesign{
     background-color: rgb(12, 127, 203);
@@ -43,6 +44,7 @@ a{
     font-weight: lighter;
     margin-left: 40px;
     margin-right: 40px;
+    margin-bottom: -60px;
     position:relative;
     top: -75px;
     
@@ -96,8 +98,11 @@ img{
     
 }
 .class1{
-    font-size: 40px;
-
+    font-size: 30px;
+    margin-bottom: -10px;
+}
+.class2{
+    margin-bottom: -30px;
 }
 .sec{
     display: flex;
@@ -196,7 +201,7 @@ border-radius: 45px;
 
                    /* FOR VIRTUAL CLASSROOM.HTML */
 .t4{
-background-color:rgb(54, 183, 243) ;
+   background-color:rgb(54, 183, 243) ;
 }
 
            /* FOR eLEARNING */
@@ -239,25 +244,30 @@ background-color:rgb(54, 183, 243) ;
             margin-left: 23px; 
          }
          .list a{
-            font-size: 18px;
-            font-weight: bold;
-            margin-right: 25px;
+            font-size: 14px;
+            font-weight: small;
+            margin-right: 13px;
             text-decoration: none;
             display: flex; 
             list-style: none;
-justify-content: space-between;
-         }
-         
-        
-    
+            justify-content: space-between;
+        }
+        .getdemo{
+            background-color: #f78200;
+            padding: 2px;
+            border-radius: 12px;
+            color: whitesmoke;
+            
+
+        }
          
          .display{
             display: flex;
             justify-content: space-between;
-            padding: 8px;
+            padding: 7px;
             font-size: x-small;
             margin-bottom: 20px;
-            margin-right: 20px;
+            margin-right: 9px;
             list-style: none;
     
         }
